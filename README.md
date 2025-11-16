@@ -8,6 +8,16 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/thiago-dorta/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/></a>
         <a href="https://mailto:thidorta.boy@gmail.com"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZxYmRqdDg4ZXFtNXdkOWZ5MmxrdTF0amdiNmZwbnBza2F2NmQyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ub2arxF0kBE10C4T9K/giphy.gif" width="50"/></a>
+<div>
+  <h3>About Me</h3>
+  <ul>
+    <li>🐍 Python developer focused on AI and backend development.</li>
+    <li>🤖 Experience with AI-powered automations and chatbot systems using low/no-code platforms.</li>
+    <li>🔬 Participant in a directed study on LLMs and continuous software engineering practices at UNICAMP.</li>
+    <li>⚡ Curious, analytical and adaptable as a chameleon🦎.</li>
+  </ul>
+</div>
+
 </div>
 
 -----
