@@ -11,7 +11,7 @@
 <div>
   <h3>About Me</h3>
   <ul>
-    <li>🐍 Python developer focused on AI and backend development.</li>
+    <li>🐍 Focused on AI and backend development.</li>
     <li>🤖 Experience with AI-powered automations and chatbot systems using low/no-code platforms.</li>
     <li>🔬 Participant in a directed study on LLMs and continuous software engineering practices at UNICAMP.</li>
     <li>⚡ Curious, analytical and adaptable as a chameleon🦎.</li>
